@@ -18,6 +18,11 @@ const Products = () => {
         //     setProducts(data);
         // };
         // fetchProducts();
+
+        // const fetchProducts = async () => {
+        //     const res = await fetch('https://fakestoreapi.com/products');
+        //     const 
+        // }
     }, []);
 
     const handleAdd = (product) => {
